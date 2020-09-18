@@ -2,7 +2,7 @@
 exports.__esModule = true;
 var fs_1 = require("fs");
 var config = {
-    token: "NzU2NTExMzU0NDgyODUxODgw.X2S6Gg.0JDfNVeKxsFwh8082NTRbi-P9FQ",
+    token: "TnpVMk5URXhNelUwTkRneU9EVXhPRGd3LlgyUzZHZy4wSkRmTlZlS3hzRndoODA4Mk5UUmJpLVA5RlE",
     commands: [
         {
             name: "say",
