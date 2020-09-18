@@ -46,4 +46,4 @@ client.on("guildMemberRemove", user => {
     });
 });
 
-client.login(config.token);
+client.login(ATON(config.token));
