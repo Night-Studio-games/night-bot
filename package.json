@@ -10,7 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "discord.js": "^12.3.1",
-    "fs": "0.0.1-security"
+    "fs": "0.0.1-security",
+    "megadb": "^3.4.0"
   },
   "devDependencies": {
     "@types/node": "^14.11.1"
